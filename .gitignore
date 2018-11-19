@@ -6,3 +6,6 @@
 *.out
 *.log
 *.d
+.DS_Store
+build*/
+
