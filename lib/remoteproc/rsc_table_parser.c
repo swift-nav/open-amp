@@ -247,5 +247,5 @@ int handle_mmu_rsc(struct remote_proc *rproc, void *rsc)
 	(void)rproc;
 	(void)rsc;
 
-	return RPROC_ERR_RSC_TAB_NS;
+	return RPROC_SUCCESS;
 }
